@@ -588,6 +588,12 @@ section.form .container {
 #menu-d .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header5-v .mbr-section-title {
+  color: #000;
+}
+#header5-v .mbr-section-lead {
+  color: #9c9a9a;
+}
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
 }

@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "4.9.4"
   },
   "pages": {
@@ -579,31 +579,42 @@
           "_anchor": "menu-d"
         },
         {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "106 rue du 1er Mars 1943",
-              "placeId": "ChIJqT0HszTA9EcRT522uS8xtjI",
-              "state": "ok",
-              "stateDetails": ""
-            }
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
-          "text1": "<strong>Address</strong><br>106 RUE DU 1 ER MARS 1943<br>Villeubanne 69100<br><br><br>\n<strong>Contacts</strong><br>\nEmail: graffdana.z@gmail.com<br>\nPhone: +33 7 51 47 50 45<br><br>",
-          "text2": "<div><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px;\"><b></b></span></font></div>",
+          "title": "MOTION DESIGN",
+          "text": "&nbsp;Le motion design, aussi appelé motion graphic design, design animé ou design d’animation peut être défini comme « l’art de donner vie au graphisme ». Le motion-design c’est étendre le graphisme au milieu audiovisuel. En bref c’est animer des choses. Cela peut concerner de l’habillage typographique, de l’animation d’identités visuelles, de l’animation d’éléments 3D, interfaces graphiques, sites web, tablettes, téléphones ou encore l’animation d’illustrations&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
           "_tags": [
             "Thème"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-e"
+          "_name": "header5",
+          "_anchor": "header5-v"
         }
       ]
     },
