@@ -620,7 +620,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
@@ -642,7 +642,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1357x1920.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -656,8 +659,8 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "title": "VIDEO",
+          "text": "Montage / Giff/ After Effects / Premiere Pro",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
@@ -671,7 +674,7 @@
             "showBullets": true,
             "fullWidth": false,
             "spacing": 1,
-            "paddingTop": 0,
+            "paddingTop": "3",
             "paddingBottom": 0,
             "filterBgColor": false,
             "bgColor": "fff",
