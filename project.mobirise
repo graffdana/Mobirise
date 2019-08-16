@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "4.9.4"
   },
   "pages": {
@@ -666,89 +666,61 @@
           "_anchor": "msg-box5-x"
         },
         {
+          "_inherit": "gallery1",
           "_params": {
-            "autoplay": true,
-            "fullScreen": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/misieu.gif",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDER",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "image": "@PROJECT_PATH@/assets/images/misieu-1.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/misieu-1.gif",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bridge.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BACKGROUND VIDEO",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "image": "@PROJECT_PATH@/assets/images/basket-12.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/basket-12.gif",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sparklers.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "image": "@PROJECT_PATH@/assets/images/ezgif.com-video-to-gif.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/ezgif.com-video-to-gif.gif",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
               }
             ]
           },
+          "_tags": [
+            "Thème"
+          ],
           "articleLayout": false,
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "slider3",
-          "_anchor": "slider3-w"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/misieu.gif",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-y"
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-z"
         }
       ]
     },
