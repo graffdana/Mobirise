@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 40,
+    "uniqCompNum": 43,
     "versionPublish": "4.9.4"
   },
   "pages": {
@@ -822,30 +822,124 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "106 rue du 1er Mars 1943",
-              "placeId": "ChIJqT0HszTA9EcRT522uS8xtjI",
-              "state": "ok",
-              "stateDetails": ""
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/by-arts-1400x1980.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>106 RUE DU 1 ER MARS 1943<br>Villeubanne 69100<br><br><br>\n<strong>Contacts</strong><br>\nEmail: graffdana.z@gmail.com<br>\nPhone: +33 7 51 47 50 45<br><br>",
-          "text2": "<div><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px;\"><b></b></span></font></div>",
+          "title": "PARTIE 1 Création du logo",
+          "text": "à mettre plus tard....",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-g"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-14"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mok-up-axes-1-2000x1111.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mok-up-axes-1-2000x1111-800x446.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mok-up-site-appli-2000x1111.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mok-up-site-appli-2000x1111-800x445.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/wooden-frame-poster-mockup-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wooden-frame-poster-mockup-2000x1600-800x641.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/branding-psd-poster-mockup-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/branding-psd-poster-mockup-2000x1500-800x455.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-15"
         }
       ]
     },
