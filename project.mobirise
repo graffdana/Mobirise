@@ -170,7 +170,7 @@
           },
           "title": "DANA ZBK",
           "text": "<b>Designer Graphique / Web / Print / Multimedia&nbsp;<br>Concept Designer / Illustrator / Writer /</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PLUS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">PLUS</a>",
           "_tags": [
             "Thème"
           ],
@@ -1429,7 +1429,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x10509.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x105010.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
