@@ -1429,7 +1429,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x10505.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x10508.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2287,7 +2287,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PENDANT MON TEMPS LIBRE",
-          "text": "J'aime faire des photos et vidéos.",
+          "text": "J'aime faire des photos, vidéos, dessiner des story boards, faire de la musique et voyager.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Thème"
@@ -2344,7 +2344,7 @@
               "size": 250
             }
           },
-          "title": "J'aime aussi créer, écouter, apprendre !",
+          "title": "J'aime créer, écouter et apprendre !",
           "text": "M'évoluer est devenu mon hobby.",
           "_tags": [
             "Thème"
@@ -2368,7 +2368,7 @@
             "video": {
               "src": "https://youtu.be/vZK1gi7Qa3w",
               "autoplay": false,
-              "loop": false,
+              "loop": "on",
               "active": true
             }
           },
