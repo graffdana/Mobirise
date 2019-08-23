@@ -661,10 +661,23 @@ section.form .container {
 #menu-f .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box8-1k .mbr-section-title,
+#msg-box8-1k p {
+  color: #fff;
+}
+#msg-box8-1k .lead {
+  color: #ffffff;
+}
 #header5-1f .mbr-section-title {
   color: #000;
 }
 #header5-1f .mbr-section-lead {
+  color: #9c9a9a;
+}
+#header5-1m .mbr-section-title {
+  color: #000;
+}
+#header5-1m .mbr-section-lead {
   color: #9c9a9a;
 }
 #menu-h .hide-buttons .nav-btn {
