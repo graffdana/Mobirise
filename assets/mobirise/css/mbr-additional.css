@@ -594,6 +594,12 @@ section.form .container {
 #header5-v .mbr-section-lead {
   color: #9c9a9a;
 }
+#header5-18 .mbr-section-title {
+  color: #000;
+}
+#header5-18 .mbr-section-lead {
+  color: #9c9a9a;
+}
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -654,6 +660,12 @@ section.form .container {
 #menu-f .link[aria-expanded="true"],
 #menu-f .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header5-1f .mbr-section-title {
+  color: #000;
+}
+#header5-1f .mbr-section-lead {
+  color: #9c9a9a;
 }
 #menu-h .hide-buttons .nav-btn {
   display: none !important;
