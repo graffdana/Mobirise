@@ -357,8 +357,8 @@
               "size": 0
             }
           },
-          "title": "DESIGN&nbsp;",
-          "text": "La passion envers l'Art évoque non seulement esprit artistique, mais aussi envie de vivre.",
+          "title": "DESIGN DES PROJETS&nbsp;",
+          "text": "La passion envers l'Art évoque non seulement un esprit artistique, mais aussi envie de créer.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">PLUS</a>",
           "_tags": [
             "Thème"
@@ -476,13 +476,13 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "106 rue du 1er Mars 1943",
-              "placeId": "ChIJqT0HszTA9EcRT522uS8xtjI",
+              "address": "Villeurbanne",
+              "placeId": "ChIJryN2zS_A9EcRUiZbJSsMusM",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>106 RUE DU 1 ER MARS 1943<br>Villeubanne 69100<br><br><br>\n<strong>Contacts</strong><br>\nEmail: graffdana.z@gmail.com<br>\nPhone: +33 7 51 47 50 45<br><br>",
+          "text1": "<strong>Address</strong><br><br>Villeubanne 69100<br><br><br>\n<strong>Contacts</strong><br>\nEmail: graffdana.z@gmail.com<br>\nPhone: +33 7 51 47 50 45<br><br>",
           "text2": "<div><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px;\"><b></b></span></font></div>",
           "_tags": [
             "Thème"
@@ -1429,7 +1429,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x105016.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x105017.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
