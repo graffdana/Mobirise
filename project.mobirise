@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 73,
+    "uniqCompNum": 74,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -1429,7 +1429,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x105022.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x105023.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2352,6 +2352,36 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box6",
           "_anchor": "msg-box6-20"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ACCEDER SUR MON INSTAGRAM",
+          "text": "Je vous ivite à",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.instagram.com/dann_996/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PLUS</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-21"
         },
         {
           "_params": {
