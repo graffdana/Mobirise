@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -169,7 +169,7 @@
             }
           },
           "title": "DANA ZBK",
-          "text": "<b>&nbsp;</b>",
+          "text": "<b>Graphiste Web / Print et Multimedia&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">PLUS</a>",
           "_tags": [
             "Thème"
@@ -1429,7 +1429,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x105017.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x105018.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2287,7 +2287,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PENDANT MON TEMPS LIBRE",
-          "text": "J'aime faire des photos, vidéos, dessiner des story boards, faire de la musique et voyager.",
+          "text": "J'aime faire des photos, vidéos, dessiner, faire de la musique et voyager.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Thème"
@@ -2345,7 +2345,7 @@
             }
           },
           "title": "J'aime créer, écouter et apprendre !",
-          "text": "M'évoluer est devenu mon hobby.",
+          "text": "Vous pouvez ainsi voir me suivre sur instagram: dann_996",
           "_tags": [
             "Thème"
           ],
