@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -285,7 +285,7 @@
           "title1": "PRINT",
           "subtitle1": "3 Ans de pratique et de l'expérience",
           "caption1": "Affiches/ Catalogues/ Journaux / Illustrations / PLV&nbsp;",
-          "title2": "Multimedia&nbsp;",
+          "title2": "Animation",
           "subtitle2": "3 Ans de pratique et de l'expérience",
           "caption2": "Création de court metrages / Animation / Retouche video&nbsp;",
           "title3": "Web&nbsp;",
@@ -1533,7 +1533,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x105024.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x105025.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
