@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1429,7 +1429,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x105021.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x105022.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2345,7 +2345,7 @@
             }
           },
           "title": "J'aime créer, écouter et apprendre !",
-          "text": "Vous pouvez ainsi voir me suivre sur instagram: dann_996",
+          "text": "Je vous invite ainsi voir mon &nbsp;instagram: dann_996",
           "_tags": [
             "Thème"
           ],
