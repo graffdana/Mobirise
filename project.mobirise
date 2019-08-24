@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "page6.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 74,
+    "uniqCompNum": 76,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -771,7 +771,7 @@
             "overlayOpacity": 0.5
           },
           "title": "BY ARTS",
-          "text": "Galerie d'Art en Ligne.",
+          "text": "Galerie d'Art en Ligne",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
           "_tags": [
             "Thème"
@@ -908,7 +908,7 @@
               "size": 0
             }
           },
-          "title": "&nbsp;Création du logo et divers supports",
+          "title": "&nbsp;Etape 1 : Création du logo et divers supports",
           "text": "Conceptualisation d'un site Web et Application Mobile en utilisant les actualités graphiques.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1062,7 +1062,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Mise en page du Logo",
+          "title": "Etape 2 : Mise en page du Logo",
           "text": "Video / Affiche / Site Web / Application",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -1187,6 +1187,58 @@
           "_anchor": "header5-1f"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vlan-1400x840.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ETAPE : 1 Création du logo",
+          "text": "3 Axes de recherche",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-22"
+        },
+        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
@@ -1232,6 +1284,58 @@
           "allItem": "All",
           "_name": "gallery3",
           "_anchor": "gallery3-1h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/3eme-1400x4128.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Etape 2 : Site Web",
+          "text": "Créer un concept d\"un site web utilisant les actualités graphiques.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-23"
         },
         {
           "_params": {
@@ -1377,8 +1481,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1429,7 +1533,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x105023.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x105024.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
