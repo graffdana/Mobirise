@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1533,7 +1533,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x105025.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x105026.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2106,7 +2106,7 @@
             }
           },
           "title": "&nbsp;NOUVELLE COLLECTION NIKE",
-          "text": "Une affiche en serie et catalogue",
+          "text": "Une affiche en serie&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Thème"
@@ -2205,7 +2205,7 @@
               "size": 0
             }
           },
-          "title": "ILLUSTRATIONS RETOUCHE PHOTO",
+          "title": "ILLUSTRATIONS / PHOTO",
           "text": "Brochures / Livres / Carnets&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -2449,7 +2449,7 @@
             }
           },
           "title": "J'aime créer, écouter et apprendre !",
-          "text": "Je vous invite ainsi voir mon &nbsp;instagram: dann_996",
+          "text": "",
           "_tags": [
             "Thème"
           ],
