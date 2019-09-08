@@ -891,7 +891,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sans-titre-2-302x348.png",
+              "src": "@PROJECT_PATH@/assets/images/branding-psd-poster-mockup-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1533,7 +1533,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x10500.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x10501.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
