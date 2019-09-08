@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 76,
+    "uniqCompNum": 80,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -1533,7 +1533,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x10501.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x10502.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2279,8 +2279,8 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "HOBBYS",
+        "meta_descr": "Web Site Creator Description",
+        "title": "CV",
         "order": 1
       },
       "components": [
@@ -2368,150 +2368,40 @@
             "Thème"
           ],
           "_name": "menu",
-          "_anchor": "menu-1w"
+          "_anchor": "menu-24"
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2627-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "PENDANT MON TEMPS LIBRE",
-          "text": "J'aime faire des photos, vidéos, dessiner, faire de la musique et voyager.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1z"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#c0a375",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/68773228-392003068124030-6276337483189846016-n-3-1333x2000.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "J'aime créer, écouter et apprendre !",
-          "text": "",
-          "_tags": [
-            "Thème"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box6",
-          "_anchor": "msg-box6-20"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
+            "autoplay": false,
+            "fullScreen": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showBullets": false,
+            "bgColor": "#fff",
+            "timeout": "6",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/cv-obtobre-dana-graphiste-page-1-1754x1241.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
           },
-          "title": "ACCEDER SUR MON INSTAGRAM",
-          "text": "Je vous ivite à",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.instagram.com/dann_996/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PLUS</a>",
+          "articleLayout": false,
           "_tags": [
             "Thème"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-21"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://youtu.be/vZK1gi7Qa3w",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-1y"
+          "_name": "slider",
+          "_anchor": "slider-26"
         }
       ]
     }
