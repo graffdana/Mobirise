@@ -149,8 +149,9 @@
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/68773228_392003068124030_6276337483189846016_n-4-1333x2000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -159,8 +160,7 @@
               "src": "https://www.youtube.com/watch?v=vZK1gi7Qa3w",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": "on",
-              "active": true
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
@@ -1533,7 +1533,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x10507.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x10508.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
