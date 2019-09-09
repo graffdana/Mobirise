@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -149,18 +149,18 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/68773228-392003068124030-6276337483189846016-n-4-1333x2000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/68773228_392003068124030_6276337483189846016_n-4-1333x2000.jpg",
               "link": "",
               "alt": "",
               "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=vZK1gi7Qa3w",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": "on",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
@@ -1533,7 +1533,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x10506.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x10507.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
