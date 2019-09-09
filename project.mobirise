@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 81,
+    "uniqCompNum": 84,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -131,62 +131,29 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
             "showArrow": true,
-            "imageSize": "45",
+            "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": 0.5
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=vZK1gi7Qa3w",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "DANA ZBK",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">PLUS</a>",
+          "title": "DANA ZK",
+          "text": "Graphiste / UX-UI / Print / Motion Design / Photo / Video",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Plus</a> ",
           "_tags": [
             "Thème"
           ],
-          "_name": "header2",
-          "_anchor": "header2-3",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#2b0680",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-section-text B": {
-              "font-size": "20px",
-              "color": "#ffffff"
-            }
-          }
+          "_name": "header1",
+          "_anchor": "header1-29"
         },
         {
           "_inherit": "features1",
@@ -270,7 +237,7 @@
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -324,7 +291,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -468,7 +435,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#2e2e2e",
@@ -602,7 +569,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -633,7 +600,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -758,7 +725,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -875,7 +842,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1165,7 +1132,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -1196,7 +1163,7 @@
             "paddingTop": "3",
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1295,7 +1262,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1377,7 +1344,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -1408,7 +1375,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1484,7 +1451,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1533,7 +1500,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x10509.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x105010.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1559,7 +1526,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#F2F2F2",
@@ -1716,7 +1683,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -1747,7 +1714,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -2041,7 +2008,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -2072,7 +2039,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -2172,7 +2139,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -2369,6 +2336,44 @@
           ],
           "_name": "menu",
           "_anchor": "menu-24"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "LinkedIn",
+          "text": "Je vous invite à voir mon profil sur LinkedIn",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.linkedin.com/in/dana-zk-6349b2161/\" data-toolbar=\"-mbrBtnMove\">Plus</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-2b"
         },
         {
           "_params": {

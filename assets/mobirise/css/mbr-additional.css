@@ -4,7 +4,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -516,14 +515,6 @@ section.form .container {
 #menu-2 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header2-3 .mbr-section-text {
-  color: #2b0680;
-  font-family: 'Montserrat', sans-serif;
-}
-#header2-3 .mbr-section-text B {
-  font-size: 20px;
-  color: #ffffff;
-}
 #features2-4 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
@@ -874,4 +865,10 @@ section.form .container {
 #menu-24 .link[aria-expanded="true"],
 #menu-24 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header5-2b .mbr-section-title {
+  color: #000;
+}
+#header5-2b .mbr-section-lead {
+  color: #9c9a9a;
 }
