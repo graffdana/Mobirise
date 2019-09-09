@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 80,
+    "uniqCompNum": 81,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -1533,7 +1533,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x10505.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x10506.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2372,36 +2372,30 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "fullScreen": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": false,
-            "bgColor": "#fff",
-            "timeout": "6",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/cv-obtobre-dana-graphiste-page-1-1754x1241.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
           },
-          "articleLayout": false,
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cv-obtobre-dana-graphiste-page-1-1400x991.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Thème"
           ],
-          "_name": "slider",
-          "_anchor": "slider-26"
+          "_name": "image2",
+          "_anchor": "image2-28"
         }
       ]
     }
