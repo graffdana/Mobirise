@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -148,7 +148,7 @@
           },
           "title": "DANA ZK",
           "text": "Graphiste / UX-UI / Print / Motion Design / Photo / Video",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Plus</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Plus</a> ",
           "_tags": [
             "Thème"
           ],
@@ -1500,7 +1500,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x105010.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x105011.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
