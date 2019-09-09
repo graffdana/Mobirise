@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -737,6 +737,218 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
+          "title": "Vlan",
+          "text": "Chaine de podcasts crée par Gregory Pouy.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vlan-1400x840.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ETAPE : 1 Création du logo",
+          "text": "3 Axes de recherche",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-22"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sajkdfdjabv.k-2000x1111.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sajkdfdjabv.k-2000x1111-800x445.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sajkdfdjabv.k-2000x1111.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sajkdfdjabv.k-2000x1111-800x445.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Thème"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-1h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/3eme-1400x4128.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Etape 2 : Site Web",
+          "text": "Créer un concept d\"un site web utilisant les actualités graphiques.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-23"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=nQHSgdkNKeQ",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1i"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
           "title": "BY ARTS",
           "text": "Galerie d'Art en Ligne",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
@@ -1089,245 +1301,6 @@
           "_anchor": "image1-1j"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#ffffff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=ZPgXVgWeDLg",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-1c"
-        },
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Vlan",
-          "text": "Chaine de podcasts crée par Gregory Pouy.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-1f"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/vlan-1400x840.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ETAPE : 1 Création du logo",
-          "text": "3 Axes de recherche",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-22"
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": 1,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "filterBgColor": true,
-            "bgColor": "#ffffff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/sajkdfdjabv.k-2000x1111.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sajkdfdjabv.k-2000x1111-800x445.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/sajkdfdjabv.k-2000x1111.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sajkdfdjabv.k-2000x1111-800x445.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "_tags": [
-            "Thème"
-          ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery3",
-          "_anchor": "gallery3-1h"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3eme-1400x4128.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Etape 2 : Site Web",
-          "text": "Créer un concept d\"un site web utilisant les actualités graphiques.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-23"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=nQHSgdkNKeQ",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-1i"
-        },
-        {
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
@@ -1500,7 +1473,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x105012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x105013.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
