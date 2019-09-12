@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1473,7 +1473,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x105014.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x10500.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2340,7 +2340,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LinkedIn",
-          "text": "Je vous invite à voir mon profil sur LinkedIn",
+          "text": "Je vous invite à voir mon profil&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.linkedin.com/in/dana-zk-6349b2161/\" data-toolbar=\"-mbrBtnMove\">Plus</a>",
           "_tags": [
             "Thème"
@@ -2358,7 +2358,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cv-obtobre-dana-graphiste-page-1-1400x991.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cv-dg-dana-2019-page-0001-1-1400x991.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
