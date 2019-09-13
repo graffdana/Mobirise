@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -102,7 +102,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Accueil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -147,7 +147,7 @@
             "overlayOpacity": 0.5
           },
           "title": "DANA ZK",
-          "text": "Graphiste / UX-UI / Print / Motion Designer / Photo / Video",
+          "text": "Design Graphique / UX-UI / Photo / Video",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Plus</a> ",
           "_tags": [
             "Thème"
@@ -325,7 +325,7 @@
             }
           },
           "title": "DESIGN DES PROJETS&nbsp;",
-          "text": "La passion envers l'Art évoque non seulement un esprit artistique, mais aussi envie de créer.",
+          "text": ".",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">PLUS</a>",
           "_tags": [
             "Thème"
@@ -528,7 +528,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Accueil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1020,7 +1020,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Accueil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1473,7 +1473,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x10502.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x10503.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1620,7 +1620,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Accueil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1945,7 +1945,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Accueil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2291,7 +2291,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Accueil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Web</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Animation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Print</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
