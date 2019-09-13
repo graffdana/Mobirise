@@ -671,6 +671,9 @@ section.form .container {
 #header5-1m .mbr-section-lead {
   color: #9c9a9a;
 }
+#msg-box1-1v H3 {
+  font-size: 36px;
+}
 #menu-h .hide-buttons .nav-btn {
   display: none !important;
 }

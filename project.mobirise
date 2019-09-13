@@ -1473,7 +1473,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x10501.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x10502.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1518,7 +1518,12 @@
             "Thème"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-1v"
+          "_anchor": "msg-box1-1v",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {
