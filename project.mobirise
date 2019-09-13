@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-12_1354",
-    "currentPage": "page6.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -738,7 +738,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Vlan",
-          "text": "Chaine de podcasts crée par Gregory Pouy.",
+          "text": "Chaine de podcasts crée par Gregory Pouy",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
           "_tags": [
             "Thème"
@@ -889,7 +889,7 @@
             }
           },
           "title": "Etape 2 : Site Web",
-          "text": "Créer un concept d\"un site web utilisant les actualités graphiques.",
+          "text": "Créer un concept d'un site web utilisant les actualités graphiques",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
@@ -1088,7 +1088,7 @@
             }
           },
           "title": "&nbsp;Etape 1 : Création du logo et divers supports",
-          "text": "Conceptualisation d'un site Web et Application Mobile en utilisant les actualités graphiques.",
+          "text": "Conceptualisation d'un site Web et Application Mobile en utilisant les actualités graphiques",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
@@ -1458,7 +1458,7 @@
             }
           },
           "title": "ETAPE 2",
-          "text": "Création de Site Web pour l'achat &nbsp;des typographies.",
+          "text": "Création de Site Web pour l'achat &nbsp;des typographies",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
@@ -1473,7 +1473,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1400x10500.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x10501.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
